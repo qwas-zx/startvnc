@@ -43,6 +43,10 @@ cd vnc-setup
 chmod +x startvnc.sh
 ./startvnc.sh
 ```
+或
+```bash
+curl -sSL https://raw.githubusercontent.com/qwas-zx/startvnc/main/startvnc.sh | bash
+```
 ## 使用说明
   - 克隆项目到本地。
   - 进入项目目录。
